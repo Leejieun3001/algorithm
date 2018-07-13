@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename compilation unit &apos;stack.Stack.java&apos; to &apos;IntegerStoreStack.java&apos;&#x0D;&#x0A;- Original project: &apos;DataStructure&apos;&#x0D;&#x0A;- Original element: &apos;stack.Stack.java&apos;&#x0D;&#x0A;- Renamed element: &apos;stack.IntegerStoreStack.java&apos;" description="Rename compilation unit &apos;Stack.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;stack{Stack.java" name="IntegerStoreStack.java" references="false" stamp="1531314701552" version="1.0"/>
-</session>
